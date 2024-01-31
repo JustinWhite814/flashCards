@@ -1,0 +1,15 @@
+.parentGrid{
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+ }
+
+.grid
+{
+  width: 50%;
+}
+
+img{
+    width: 20%;
+  }
